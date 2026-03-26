@@ -2,3 +2,35 @@
     box-sizing: border-box;
 }
 
+#html{
+    background-color: grey;
+}
+
+.h1{
+    background-color: pink;
+    color: white;
+}
+
+.p1{
+    color: yellow;
+}
+
+.p2{
+    color: lightgreen
+}
+
+.p3{
+    color: lightblue;
+}
+
+.border1{
+    background-color: white;
+    color: black;
+    border:5px solid orange;
+    padding-bottom: 50px;
+    margin: 10px;
+}
+
+.p4{
+    color: white;
+}
